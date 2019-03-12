@@ -1,0 +1,9 @@
+﻿  VortexMain.cpp
+VortexMain.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutInitWindowSize@8 в функции _main
+VortexMain.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutInitDisplayMode@4 в функции _main
+VortexMain.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutMainLoop@0 в функции _main
+VortexMain.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__glutDisplayFunc@4 в функции _main
+VortexMain.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp____glutInitWithExit@12 в функции _glutInit_ATEXIT_HACK@8
+VortexMain.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp____glutCreateWindowWithExit@8 в функции _glutCreateWindow_ATEXIT_HACK@4
+C:\OpenGL\Libs\freeglut.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\Users\Ann\source\repos\Lab_2_Vortex\Debug\Lab_2_Vortex.exe : fatal error LNK1120: неразрешенных внешних элементов: 6
