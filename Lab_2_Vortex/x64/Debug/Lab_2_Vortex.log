@@ -1,15 +1,13 @@
 ﻿  VortexMain.cpp
-c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(22): warning C4305: инициализация: усечение из "double" в "float"
-c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(56): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(20): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(41): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(54): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(55): warning C4244: =: преобразование "double" в "float", возможна потеря данных
 c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(57): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(68): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(66): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(67): warning C4244: =: преобразование "double" в "float", возможна потеря данных
 c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(69): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(71): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(87): warning C4101: nextAdamsDotX: неиспользованная локальная переменная
-c:\users\ann\source\repos\lab_2_vortex\lab_2_vortex\vortexmain.cpp(87): warning C4101: nextAdamsDotY: неиспользованная локальная переменная
   Lab_2_Vortex.vcxproj -> C:\Users\Ann\source\repos\Lab_2_Vortex\x64\Debug\Lab_2_Vortex.exe
